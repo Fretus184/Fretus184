@@ -6,7 +6,7 @@ Passionné par le développement mobile performant et les architectures propres
 
 ## About Me
 
-Développeur spécialisé en Android natif avec Kotlin et KMP.  
+Développeur spécialisé en Mobile natif avec Kotlin et KMP.  
 Je crée des applications robustes, maintenables et évolutives, avec un focus sur :
 
 - Clean Architecture & MVVM  
@@ -14,13 +14,15 @@ Je crée des applications robustes, maintenables et évolutives, avec un focus s
 - Jetpack Compose  
 - Performance mobile et bonnes pratiques
 
+Je developpe des apis backend avec django rest.., fast api, NextJs..
+
 ## Tech Stack
 
-- Mobile: Kotlin, Android SDK, Jetpack Compose, KMP, Room, Koin, Ktor... 
+- Mobile: Kotlin, Flutter, Android SDK, Jetpack Compose, KMP, Room, Koin, Ktor... 
 - Backend / API tools: Django REST Framework, FastAPI, Nextjs & TypeScript, Postman, Swagger  
-- Databases: SQLite, PostgreSQL  
+- Databases: SQLite, PostgreSQL, MySQL 
 - Architecture & Patterns: MVVM, Clean Architecture  
-- Languages: Kotlin, Python, C, C++, java, javaScript, Assembly (Intel & AT&T)  
+- Languages: Kotlin, Python, C, Dart, C++, java, javaScript, Assembly (Intel & AT&T)  
 - IDE / Editors: Android Studio, VS Code, Vim, git 
 - AI / Assistants: ChatGPT, Gemini, GitHub Copilot
 - Operating Systems: Android, Windows, Ubuntu, Debian, NetBSD, FreeBSD
