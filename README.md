@@ -14,7 +14,7 @@ Je crée des applications robustes, maintenables et évolutives, avec un focus s
 - Jetpack Compose  
 - Performance mobile et bonnes pratiques
 
-Je developpe des apis backend avec django rest.., fast api, NextJs..
+ + Je developpe des apis backend avec django rest.., fast api, NextJs..
 
 ## Tech Stack
 
