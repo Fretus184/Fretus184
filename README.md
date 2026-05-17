@@ -19,8 +19,8 @@ Je crée des applications robustes, maintenables et évolutives, avec un focus s
 ## Tech Stack
 
 - Mobile: Kotlin, Flutter, Android SDK, Jetpack Compose, KMP, Room, Koin, Ktor... 
-- Backend / API tools: Django REST Framework, FastAPI, Nestjs & TypeScript, Postman, Swagger  
-- Databases: SQLite, PostgreSQL, MySQL 
+- Backend / API tools: Django REST Framework, FastAPI, Nestjs & TypeScript, Docker, Postman, Swagger  
+- Databases: SQLite, PostgreSQL, MySQL, Cassandra
 - Architecture & Patterns: MVVM, Clean Architecture  
 - Languages: Kotlin, Python, C, Dart, C++, java, javaScript, Assembly (Intel & AT&T)  
 - IDE / Editors: Android Studio, VS Code, Vim, git 
