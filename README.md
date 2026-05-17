@@ -14,17 +14,17 @@ Je crée des applications robustes, maintenables et évolutives, avec un focus s
 - Jetpack Compose  
 - Performance mobile et bonnes pratiques
 
- + Je developpe des apis backend avec django rest.., fast api, NextJs..
+ + Je developpe des apis backend avec django rest.., fast api, NestJs..
 
 ## Tech Stack
 
 - Mobile: Kotlin, Flutter, Android SDK, Jetpack Compose, KMP, Room, Koin, Ktor... 
-- Backend / API tools: Django REST Framework, FastAPI, Nextjs & TypeScript, Postman, Swagger  
+- Backend / API tools: Django REST Framework, FastAPI, Nestjs & TypeScript, Postman, Swagger  
 - Databases: SQLite, PostgreSQL, MySQL 
 - Architecture & Patterns: MVVM, Clean Architecture  
 - Languages: Kotlin, Python, C, Dart, C++, java, javaScript, Assembly (Intel & AT&T)  
 - IDE / Editors: Android Studio, VS Code, Vim, git 
-- AI / Assistants: ChatGPT, Gemini, GitHub Copilot
+- AI / Assistants: ChatGPT, Gemini, GitHub Copilot, Claude
 - Operating Systems: Android, Windows, Ubuntu, Debian, NetBSD, FreeBSD
 
 ## Connect with Me
