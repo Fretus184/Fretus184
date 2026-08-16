@@ -1,82 +1,87 @@
 <div align="center">
 
-<img src="https://github.com/Fretus184.png" width="150" />
+<img src="https://github.com/Fretus184.png" width="150" alt="Fretus" />
 
 <br>
 
-# Fretus
+# FRETUS
 
 ### Mobile & Backend Developer
 
-Kotlin · Android · KMP · APIs · Backend
+Kotlin · Android · Kotlin Multiplatform · Backend · APIs
 
 <br>
 
-Je transforme des idées en applications mobiles
-et services backend modernes, fiables et évolutifs.
+Construire des applications modernes. <br>
+Concevoir des architectures propres. <br>
+Transformer des idées en produits fiables et évolutifs.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/kokou-fretus-attila-6351452aa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://www.tiktok.com/@netse707">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+
+<a href="YOUR_TIKTOK_URL">
+<img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:neshercop@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Backend-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Architecture-Clean-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-REST-059669?style=flat-square" />
 
 </div>
 
 ---
 
-## About Me
+## 👋 À propos
 
-I'm a software developer focused on building modern mobile applications and scalable backend services.
+Je suis développeur logiciel spécialisé dans la conception de solutions mobiles et backend.
 
-My main expertise is mobile development with Kotlin, Android and Kotlin Multiplatform, combined with backend development and API integration.
+Mon domaine principal est le développement mobile avec Kotlin, Android et Kotlin Multiplatform. Je développe également des APIs et services backend permettant de construire des applications complètes, de l'interface mobile jusqu'à la base de données.
 
-I enjoy working across the full application stack:
+Je m'intéresse particulièrement aux projets où il faut penser à la fois :
 
 ```text
-Mobile Application
-       ↓
-     API
-       ↓
-    Backend
-       ↓
-   Database
+        EXPERIENCE UTILISATEUR
+                  │
+                  ▼
+           APPLICATION MOBILE
+                  │
+                  ▼
+             API / REST
+                  │
+                  ▼
+             BACKEND
+                  │
+                  ▼
+             DATABASE
 ```
 
-My goal is simple:
+Mon objectif :
 
-Build software that is clean, maintainable, performant and easy to evolve.
-
----
-
-## What I Do
-
-| Mobile Development   | Backend Development   |
-| :------------------- | :-------------------- |
-| Android              | REST APIs             |
-| Kotlin               | Django REST Framework |
-| Jetpack Compose      | FastAPI               |
-| Kotlin Multiplatform | NestJS                |
-| Flutter              | TypeScript            |
-| Ktor                 | Authentication        |
-| Room                 | API Integration       |
+Créer des logiciels propres, performants, maintenables et capables d'évoluer avec le produit.
 
 ---
 
-## Tech Stack
+## ⚡ Ce que je fais
 
-### Mobile
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile
+
+Développement d'applications modernes et performantes.
 
 Kotlin
-Android SDK
+Android
 Jetpack Compose
 Kotlin Multiplatform
 Flutter
@@ -84,202 +89,298 @@ Ktor
 Room
 Koin
 
-### Backend
+</td>
 
-Python
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+Conception de services backend et d'APIs REST.
+
 Django
 Django REST Framework
 FastAPI
 NestJS
 TypeScript
-REST API
-Swagger / OpenAPI
-Postman
-
-### Databases
-
+Python
 PostgreSQL
-MySQL
-SQLite
-Cassandra
+Docker
 
-### Architecture
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Expertise
+
+### Mobile Engineering
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+### Backend & APIs
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square&logo=postman&logoColor=white" />
+
+### Data
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+
+### Tools & Infrastructure
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+
+---
+
+## 🏗️ Architecture
+
+Je privilégie des architectures qui permettent au produit de rester simple à comprendre et facile à faire évoluer.
+
+```text
+┌─────────────────────────────────────────────┐
+│                  MOBILE                     │
+│                                             │
+│   Android · Compose · KMP · Flutter         │
+└──────────────────────┬──────────────────────┘
+                       │
+                       │ HTTPS / REST
+                       ▼
+┌─────────────────────────────────────────────┐
+│                    API                      │
+│                                             │
+│   Django REST · FastAPI · NestJS            │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│                  DATABASE                   │
+│                                             │
+│   PostgreSQL · MySQL · SQLite · Cassandra   │
+└─────────────────────────────────────────────┘
+```
+
+Principes que j'utilise :
 
 Clean Architecture
 MVVM
 SOLID
-Design Patterns
-Modular Architecture
 Separation of Concerns
-
-### Tools & Infrastructure
-
-Git
-GitHub
-Docker
-Linux
-Postman
-Swagger
-OpenAPI
+Modularisation
+Design Patterns
+Code maintenable
+Code évolutif
 
 ---
 
-## Programming Languages
+## 🔌 Backend & API
+
+Je ne me limite pas à consommer des APIs.
+
+Je peux également intervenir sur leur conception et leur développement :
 
 ```text
-Kotlin        ████████████████████
-Python        ██████████████████
-TypeScript    ████████████████
-Java          ██████████████
-Dart          ████████████
-JavaScript    ████████████
-C             ██████████
-C++           █████████
-Assembly      ██████
+API Design
+    ↓
+Endpoints
+    ↓
+Business Logic
+    ↓
+Authentication
+    ↓
+Data Validation
+    ↓
+Database
+    ↓
+Documentation
+    ↓
+Testing
+    ↓
+Deployment
+```
+
+Domaines d'intervention :
+
+• Conception d'APIs REST
+• Développement backend
+• Authentification et autorisation
+• Gestion des utilisateurs
+• Validation des données
+• Intégration de services externes
+• Gestion des bases de données
+• Documentation OpenAPI / Swagger
+• Tests avec Postman
+• Dockerisation des services
+
+---
+
+## 📱 Mobile × Backend
+
+Une de mes forces est de pouvoir comprendre les deux côtés d'une application.
+
+```text
+                    PRODUCT
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+          ▼                         ▼
+       MOBILE                    BACKEND
+          │                         │
+          │       REST / API        │
+          └────────────┬────────────┘
+                       │
+                       ▼
+                    DATA
+```
+
+Cela permet de mieux comprendre les contraintes liées à la communication entre le client, l'API et les données.
+
+---
+
+## 🛠️ Languages
+
+```text
+Kotlin       · Primary
+Python       · Backend
+TypeScript   · Backend / APIs
+Java         · JVM
+Dart         · Flutter
+JavaScript   · Web
+C / C++      · Systems
+Assembly     · Intel / AT&T
 ```
 
 ---
 
-## Backend & API
+## 🤖 AI & Developer Tools
 
-I design and develop backend services that power mobile and web applications.
+J'utilise également les outils d'IA comme assistants dans mon workflow de développement :
 
-Areas I work with:
+ChatGPT · Gemini · GitHub Copilot · Claude
 
-• REST API design
-• Backend architecture
-• Authentication & authorization
-• User management
-• Database integration
-• API consumption and integration
-• Data validation
-• API documentation
-• API testing
-• Dockerized services
+Ils me servent notamment à :
 
-Main technologies:
+• Explorer des solutions
+• Accélérer certaines tâches de développement
+• Analyser et améliorer du code
+• Générer des tests
+• Documenter des projets
+• Explorer de nouvelles technologies
+
+L'objectif reste toujours de comprendre, contrôler et maintenir le code produit.
+
+---
+
+## 🎯 Philosophy
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+Clean
+
+Code lisible et responsabilités clairement séparées.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+Reliable
+
+Des solutions pensées pour être robustes.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+Scalable
+
+Une architecture capable d'évoluer avec le produit.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+Useful
+
+La technologie au service du besoin réel.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Currently Building
+
+Je m'intéresse particulièrement aux projets combinant :
 
 ```text
-Django REST Framework
-FastAPI
-NestJS
-TypeScript
-Python
-PostgreSQL
-Docker
+Mobile
+  +
+Backend
+  +
+APIs
+  +
+Databases
+  +
+Cloud / Infrastructure
 ```
 
----
-
-## Mobile Engineering
-
-I build mobile applications with a strong focus on architecture, performance and maintainability.
-
-```text
-Kotlin
-   │
-   ├── Android
-   │      └── Jetpack Compose
-   │
-   ├── Kotlin Multiplatform
-   │
-   └── Ktor
-          │
-          └── APIs / Backend
-```
-
-I particularly enjoy working on:
-
-• Modern UI with Jetpack Compose
-• Clean Architecture
-• MVVM
-• Local data persistence
-• API integration
-• Dependency Injection
-• State management
-• Performance optimization
-• Cross-platform development
+avec une attention particulière portée à l'architecture, aux performances et à l'expérience utilisateur.
 
 ---
 
-## Engineering Principles
-
-### Clean
-
-Readable code and clear responsibilities.
-
-### Maintainable
-
-Architecture designed for long-term evolution.
-
-### Scalable
-
-Solutions that can grow with the product.
-
-### Performant
-
-Efficient applications across mobile and backend.
-
-### Practical
-
-Technology choices driven by real product requirements.
-
----
-
-## AI & Developer Tools
-
-ChatGPT
-Gemini
-GitHub Copilot
-Claude
-
-I use AI-assisted development to improve productivity, explore solutions, review code and accelerate development while keeping engineering quality and understanding of the codebase as priorities.
-
----
-
-## Operating Systems
-
-Android
-Ubuntu
-Debian
-Windows
-NetBSD
-FreeBSD
-
----
-
-## Current Focus
-
-```text
-Mobile Development
-        +
-Backend Engineering
-        +
-API Design & Integration
-        +
-Software Architecture
-```
-
-I'm particularly interested in projects where mobile applications, APIs and backend services need to work together as one coherent system.
-
----
-
-## Let's Build Something
-
-I'm open to:
-
-• Freelance projects
-• Software development opportunities
-• Mobile application projects
-• Backend & API projects
-• Technical collaborations
-• Open-source projects
+## 📬 Contact
 
 <div align="center">
 
-### Fretus
+Vous avez un projet, une idée ou une opportunité ?
 
-Mobile · Backend · APIs · Architecture
+### Construisons quelque chose d'utile.
+
+<br>
+
+<a href="https://wa.me/message/EIXPFWDJT7ARH1">
+<img src="https://img.shields.io/badge/Me%20contacter-7C3AED?style=for-the-badge" />
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+Fretus
+Mobile · Backend · APIs · Architecture
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-Kotlin%20%26%20Python-111827?style=flat-square" />
+
+</div>
+
 
