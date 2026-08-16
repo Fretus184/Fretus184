@@ -18,11 +18,11 @@ Transformer des idées en produits fiables et évolutifs.
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/kokou-fretus-attila-6351452aa">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_TIKTOK_URL">
+<a href="https://tiktok.com/@netse707">
 <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
