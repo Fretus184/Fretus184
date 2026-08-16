@@ -1,181 +1,285 @@
-# 👋 Hello, I'm Fretus
+<div align="center">
 
-### Mobile & Backend Developer | Kotlin, Kotlin Multiplatform & APIs
+<img src="https://github.com/Fretus184.png" width="150" />
 
-Passionné par la conception et le développement de solutions logicielles **performantes, maintenables et évolutives**, avec une expertise particulière en **développement mobile** et en **backend/API**.
+<br>
 
-Je conçois des applications mobiles modernes et j'intègre également des services backend permettant de construire des solutions complètes, de l'interface utilisateur jusqu'à la couche serveur et la base de données.
+# Fretus
 
----
+### Mobile & Backend Developer
 
-## 🚀 About Me
+Kotlin · Android · KMP · APIs · Backend
 
-Je suis développeur spécialisé dans le **développement mobile avec Kotlin, Android et Kotlin Multiplatform (KMP)**, avec également une expérience dans la **conception, le développement et l'intégration d'APIs backend**.
+<br>
 
-Mon approche est orientée vers :
+Je transforme des idées en applications mobiles
+et services backend modernes, fiables et évolutifs.
 
-* 📱 Développement d'applications mobiles natives et multiplateformes
-* ⚙️ Conception et développement d'APIs REST
-* 🔗 Intégration d'APIs et de services backend dans les applications mobiles
-* 🏗️ Clean Architecture, MVVM et conception modulaire
-* 🚀 Performance, scalabilité et maintenabilité
-* 🗄️ Conception et utilisation de bases de données
-* 🐳 Conteneurisation et environnement de développement avec Docker
-* 📚 Documentation et tests d'APIs avec Swagger / OpenAPI et Postman
+<br><br>
 
-Je peux ainsi intervenir sur différentes couches d'un produit logiciel : **mobile → API/backend → base de données**.
+<a href="https://www.linkedin.com/in/kokou-fretus-attila-6351452aa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@netse707">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:neshercop@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-
-## 💻 Tech Stack
-
-### 📱 Mobile Development
-
-* Kotlin
-* Android SDK
-* Jetpack Compose
-* Kotlin Multiplatform (KMP)
-* Flutter
-* Room
-* Koin
-* Ktor
-
-### ⚙️ Backend & API Development
-
-* Python
-* Django
-* Django REST Framework
-* FastAPI
-* NestJS
-* TypeScript
-* REST APIs
-* API integration
-* Authentication & authorization
-* API documentation
-* Swagger / OpenAPI
-* Postman
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-* SQLite
-* Cassandra
-
-### 🏗️ Architecture & Design
-
-* Clean Architecture
-* MVVM
-* Modular Architecture
-* SOLID principles
-* Design Patterns
-* Separation of concerns
-
-### 🐳 DevOps & Development Tools
-
-* Docker
-* Git
-* GitHub
-* Postman
-* Swagger / OpenAPI
-
-### 🧑‍💻 Programming Languages
-
-* Kotlin
-* Python
-* TypeScript
-* Java
-* Dart
-* JavaScript
-* C
-* C++
-* Assembly (Intel & AT&T syntax)
-
-### 🛠️ IDEs & Editors
-
-* Android Studio
-* Visual Studio Code
-* Vim
-
-### 🤖 AI & Developer Assistants
-
-* ChatGPT
-* Gemini
-* GitHub Copilot
-* Claude
-
-### 🖥️ Operating Systems
-
-* Android
-* Windows
-* Ubuntu
-* Debian
-* NetBSD
-* FreeBSD
+</div>
 
 ---
 
-## 🔌 Backend & API Integration
+## About Me
 
-En complément du développement mobile, je développe et intègre des services backend permettant aux applications de communiquer avec des systèmes distants.
+I'm a software developer focused on building modern mobile applications and scalable backend services.
 
-Mes compétences couvrent notamment :
+My main expertise is mobile development with Kotlin, Android and Kotlin Multiplatform, combined with backend development and API integration.
 
-* Conception et développement d'APIs REST
-* Développement de backends avec Django REST Framework, FastAPI et NestJS
-* Intégration d'APIs tierces dans des applications mobiles
-* Authentification et gestion des utilisateurs
-* Communication client/serveur
-* Gestion des données et persistance
-* Documentation des APIs avec Swagger / OpenAPI
-* Tests et validation des endpoints avec Postman
-* Connexion aux bases de données
-* Conteneurisation des services avec Docker
+I enjoy working across the full application stack:
 
----
+```text
+Mobile Application
+       ↓
+     API
+       ↓
+    Backend
+       ↓
+   Database
+```
 
-## 🧩 What I Build
+My goal is simple:
 
-Je m'intéresse particulièrement aux projets nécessitant une combinaison de plusieurs couches techniques :
-
-**Mobile Applications**
-→ Kotlin / Android / KMP / Flutter
-
-**Backend & APIs**
-→ Django REST / FastAPI / NestJS
-
-**Data Layer**
-→ PostgreSQL / MySQL / SQLite / Cassandra
-
-**Architecture**
-→ Clean Architecture / MVVM / Modular Design
-
-**Infrastructure**
-→ Docker / Linux / Git
+Build software that is clean, maintainable, performant and easy to evolve.
 
 ---
 
-## 🎯 My Approach
+## What I Do
 
-Je privilégie des solutions :
-
-* **Robustes** — conçues pour fonctionner de manière fiable
-* **Maintenables** — avec une architecture claire et du code compréhensible
-* **Évolutives** — capables d'accompagner la croissance d'un projet
-* **Performantes** — avec une attention particulière portée aux performances
-* **Sécurisées** — en appliquant les bonnes pratiques de développement
-* **Orientées produit** — avec une attention portée aux besoins réels des utilisateurs
-
----
-
-## 🤝 Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/kokou-fretus-attila-6351452aa)
-* [TikTok](https://www.tiktok.com/@netse707)
-* Email: [neshercop@gmail.com](mailto:neshercop@gmail.com)
+| Mobile Development   | Backend Development   |
+| :------------------- | :-------------------- |
+| Android              | REST APIs             |
+| Kotlin               | Django REST Framework |
+| Jetpack Compose      | FastAPI               |
+| Kotlin Multiplatform | NestJS                |
+| Flutter              | TypeScript            |
+| Ktor                 | Authentication        |
+| Room                 | API Integration       |
 
 ---
 
-### 💡 Open to opportunities
+## Tech Stack
 
-Je suis ouvert aux **projets, collaborations et opportunités professionnelles** autour du développement mobile, du backend, des APIs et de la conception de solutions logicielles complètes.
+### Mobile
+
+Kotlin
+Android SDK
+Jetpack Compose
+Kotlin Multiplatform
+Flutter
+Ktor
+Room
+Koin
+
+### Backend
+
+Python
+Django
+Django REST Framework
+FastAPI
+NestJS
+TypeScript
+REST API
+Swagger / OpenAPI
+Postman
+
+### Databases
+
+PostgreSQL
+MySQL
+SQLite
+Cassandra
+
+### Architecture
+
+Clean Architecture
+MVVM
+SOLID
+Design Patterns
+Modular Architecture
+Separation of Concerns
+
+### Tools & Infrastructure
+
+Git
+GitHub
+Docker
+Linux
+Postman
+Swagger
+OpenAPI
+
+---
+
+## Programming Languages
+
+```text
+Kotlin        ████████████████████
+Python        ██████████████████
+TypeScript    ████████████████
+Java          ██████████████
+Dart          ████████████
+JavaScript    ████████████
+C             ██████████
+C++           █████████
+Assembly      ██████
+```
+
+---
+
+## Backend & API
+
+I design and develop backend services that power mobile and web applications.
+
+Areas I work with:
+
+• REST API design
+• Backend architecture
+• Authentication & authorization
+• User management
+• Database integration
+• API consumption and integration
+• Data validation
+• API documentation
+• API testing
+• Dockerized services
+
+Main technologies:
+
+```text
+Django REST Framework
+FastAPI
+NestJS
+TypeScript
+Python
+PostgreSQL
+Docker
+```
+
+---
+
+## Mobile Engineering
+
+I build mobile applications with a strong focus on architecture, performance and maintainability.
+
+```text
+Kotlin
+   │
+   ├── Android
+   │      └── Jetpack Compose
+   │
+   ├── Kotlin Multiplatform
+   │
+   └── Ktor
+          │
+          └── APIs / Backend
+```
+
+I particularly enjoy working on:
+
+• Modern UI with Jetpack Compose
+• Clean Architecture
+• MVVM
+• Local data persistence
+• API integration
+• Dependency Injection
+• State management
+• Performance optimization
+• Cross-platform development
+
+---
+
+## Engineering Principles
+
+### Clean
+
+Readable code and clear responsibilities.
+
+### Maintainable
+
+Architecture designed for long-term evolution.
+
+### Scalable
+
+Solutions that can grow with the product.
+
+### Performant
+
+Efficient applications across mobile and backend.
+
+### Practical
+
+Technology choices driven by real product requirements.
+
+---
+
+## AI & Developer Tools
+
+ChatGPT
+Gemini
+GitHub Copilot
+Claude
+
+I use AI-assisted development to improve productivity, explore solutions, review code and accelerate development while keeping engineering quality and understanding of the codebase as priorities.
+
+---
+
+## Operating Systems
+
+Android
+Ubuntu
+Debian
+Windows
+NetBSD
+FreeBSD
+
+---
+
+## Current Focus
+
+```text
+Mobile Development
+        +
+Backend Engineering
+        +
+API Design & Integration
+        +
+Software Architecture
+```
+
+I'm particularly interested in projects where mobile applications, APIs and backend services need to work together as one coherent system.
+
+---
+
+## Let's Build Something
+
+I'm open to:
+
+• Freelance projects
+• Software development opportunities
+• Mobile application projects
+• Backend & API projects
+• Technical collaborations
+• Open-source projects
+
+<div align="center">
+
+### Fretus
+
+Mobile · Backend · APIs · Architecture
+
+</div>
+
